@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sonu Pandey
 - 👀 I’m interested in Android Web Development
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Android And Web Projects
-- 📫 How to reach me Instagram ID (@thesonupandey)
+- 📫 How to reach me Instagram ID (@thesonupandey_)
 
 <!---
 sonupandey19/sonupandey19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
